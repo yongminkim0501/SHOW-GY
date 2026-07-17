@@ -63,8 +63,8 @@
 
 ## 증빙 자료 및 발표 자료
 <**설문 조사**>
-![스크린샷](https://github.com/yongminkim0501/SHOW-GY/blob/main/images/%E1%84%89%E1%85%A5%E1%86%AF%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A9%E1%84%89%E1%85%A1.pdf)
+![스크린샷](images/설문조사.pdf)
 <**발표 자료**>
-![스크린샷](https://github.com/yongminkim0501/SHOW-GY/blob/main/images/%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5(SHOW-GY).pdf)
+![스크린샷](images/캡스톤포스터.pdf)
 <**성과**>
-![스크린샷](https://github.com/yongminkim0501/SHOW-GY/blob/main/images/%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%89%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC.pdf)
+![스크린샷](images/캡스톤상장.pdf)
