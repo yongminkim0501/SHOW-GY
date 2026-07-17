@@ -1,5 +1,5 @@
 # **SHOW-GY**
-🔗[Backend](https://github.com/SHOW-GY/show-gy-backend) 🔗[ChatBot](https://github.com/SHOW-GY/show-gy-AI) 🔗[Admin](https://github.com/SHOW-GY/show-gy-admin) 🔗[Frontend](https://github.com/SHOW-GY/show-gy-frontend)
+🔗[Backend](https://github.com/SHOW-GY/show-gy-backend),[ChatBot](https://github.com/SHOW-GY/show-gy-AI),[Admin](https://github.com/SHOW-GY/show-gy-admin),[Frontend](https://github.com/SHOW-GY/show-gy-frontend)
 
 ## <**롯데 이노베이트 - 기업 연계**> 
 - 팀장 1명(본인), 팀원 5명, 멘토님 1명
