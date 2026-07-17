@@ -63,8 +63,8 @@
 
 ## 증빙 자료 및 발표 자료
 <**설문 조사**>
-![스크린샷](images/설문조사.png)
+![스크린샷](images/survey.png)
 <**발표 자료**>
-![스크린샷](images/캡스톤포스터.png)
+![스크린샷](images/poster.png)
 <**성과**>
-![스크린샷](images/캡스톤상장.png)
+![스크린샷](images/reward.png)
